@@ -34,7 +34,7 @@ Com mais de **15 anos de experiência** na concepção de ecossistemas de softwa
 - **Frontend Moderno & UX:** Desenvolvimento de interfaces escaláveis, componentizadas e de alto desempenho com **React (16, 18, 19)**, **Next.js** e **Angular (14, 16)**, com foco em estabilidade, Design Systems e reatividade fluida.
 - **Arquitetura Backend & Microsserviços:** Aplicação rigorosa de **Domain-Driven Design (DDD)** e **Arquitetura Hexagonal (Ports & Adapters)** para blindar regras de negócio complexas, complementados por forte especialização em sistemas orientados a eventos (**Apache Kafka**, **RabbitMQ**, **BullMQ**).
 - **Integrações Estratégicas de ERPs:** Desenho de barramentos resilientes de conciliação e alta volumetria entre retaguardas corporativas (**SAP RFC/BAPI**, **TOTVS Consinco**) e frentes de loja (**PDVs Conecto Emporium**), processando mais de **1 milhão de eventos/dia**.
-- **Fundador de SaaS Ativo:** Criador do [**iSales**](https://isales.app.br), solução multi-tenant em produção com cliente ativo (**Fechatudo**), cobrindo emissão inteligente de orçamentos, PWA com sincronização **Offline-First**, relatórios analíticos e controle de ponto com biometria facial.
+- **Fundador de SaaS Ativo:** Criador do [**iSales**](https://isales.app.br), solução multi-tenant em produção com cliente ativo (**Fechatudo - Varejo e Serviços**), integrando chatbot com IA para orçamentos por voz (Whisper + Llama 3.3 com busca em linguagem natural), controle de ponto com biometria facial vetorial e prova de vida em tempo real (face-api.js / TST), PWA Offline-First e estoque com baixa automática.
 - **DevOps, Qualidade & Observabilidade:** Pipelines automatizados de CI/CD (**GitHub Actions**, **GitLab CI**, **Jenkins**), esteiras de testes automatizados com **Jest**, inspeção estática contínua com **SonarQube**, conteinerização com **Docker**, orquestração em **Kubernetes (AWS EKS & GCP GKE)** e telemetria com **Prometheus & Grafana**.
 
 ---
@@ -59,7 +59,7 @@ Com mais de **15 anos de experiência** na concepção de ecossistemas de softwa
   *Analista Desenvolvedor Sênior* — Soluções corporativas de missão crítica para grande grupo multinacional de varejo. Barramentos de integração de vendas entre SAP e TOTVS Consinco com redução de 80% na carga de processamento; plataforma de streaming de dados com Kafka e NestJS; suíte de backoffice com 50+ módulos em NestJS e Angular; testes automatizados com **Jest & SonarQube** em Kubernetes.
 
 - **iSales (SaaS Próprio em Produção)** *(2024 — Presente)*  
-  *Engenheiro Fullstack / Fundador* — Plataforma SaaS comercial ativa (cliente **Fechatudo**). PWA Offline-First resiliente para vendedores externos, motor de orçamentos, módulo de ponto eletrônico com biometria facial e IA, arquitetura multi-tenant com NestJS, React, PostgreSQL e Redis.
+  *Engenheiro Fullstack / Fundador* — Plataforma SaaS comercial ativa (cliente **Fechatudo - Varejo e Serviços**). Assistente conversacional com IA para orçamentos por voz (Groq Whisper + Llama 3.3 com busca semântica no banco de dados), controle de ponto eletrônico antifraude com biometria facial vetorial e prova de vida (face-api.js / TST), PWA Offline-First para vendedores externos e retaguarda multi-tenant com Next.js, Drizzle ORM e Neon PostgreSQL.
 
 - **MTSIS Sistemas de Informática LTDA** *(Outubro 2021 — Outubro 2022)*  
   *Analista de Sistemas e Desenvolvedor Fullstack* — Barramentos fiscais síncronos e assíncronos para ERPs, integrações com SEFAZ (NFe/NFCe), micro-frontends de monitoramento e auditoria em tempo real de filas fiscais.
