@@ -31,7 +31,7 @@
 
 Com mais de **15 anos de experiência** na concepção de ecossistemas de software robustos, atuo no ciclo completo de engenharia, desde produtos SaaS até plataformas corporativas de missão crítica:
 
-- **Frontend Moderno & UX:** Desenvolvimento de interfaces escaláveis, componentizadas e de alto desempenho com **React (16, 18, 19)**, **Next.js** e **Angular (14, 16)**, com foco em estabilidade, Design Systems e reatividade fluida.
+- **Frontend Moderno & UX:** Desenvolvimento de interfaces escaláveis, componentizadas e de alto desempenho com **React (16, 18, 19)**, **Next.js**, **Angular (14, 16)** e **Module Federation** (Microfrontends), com foco em estabilidade, Design Systems e reatividade fluida.
 - **Arquitetura Backend & Microsserviços:** Aplicação rigorosa de **Domain-Driven Design (DDD)** e **Arquitetura Hexagonal (Ports & Adapters)** para blindar regras de negócio complexas, complementados por forte especialização em sistemas orientados a eventos (**Apache Kafka**, **RabbitMQ**, **BullMQ**).
 - **Integrações Estratégicas de ERPs:** Desenho de barramentos resilientes de conciliação e alta volumetria entre retaguardas corporativas (**SAP RFC/BAPI**, **TOTVS Consinco**) e frentes de loja (**PDVs Conecto Emporium**), processando mais de **1 milhão de eventos/dia**.
 - **Fundador de SaaS Ativo:** Criador do [**iSales**](https://isales.app.br), solução multi-tenant em produção com cliente ativo (**Fechatudo - Varejo e Serviços**), integrando chatbot com IA para orçamentos por voz (Whisper + Llama 3.3 com busca em linguagem natural), controle de ponto com biometria facial vetorial e prova de vida em tempo real (face-api.js / TST), PWA Offline-First e estoque com baixa automática.
@@ -43,7 +43,7 @@ Com mais de **15 anos de experiência** na concepção de ecossistemas de softwa
 
 | Área | Tecnologias & Frameworks |
 | :--- | :--- |
-| **Frontend & Mobile** | **React (16/18/19)**, **Next.js**, **Angular (14/16)**, TypeScript, JavaScript, Tailwind CSS, Radix UI, PWA / Service Workers, React Native, Ionic, Capacitor |
+| **Frontend & Mobile** | **React (16/18/19)**, **Next.js**, **Module Federation (Microfrontends)**, **Angular (14/16)**, TypeScript, JavaScript, Tailwind CSS, Radix UI, PWA / Service Workers, React Native, Ionic, Capacitor |
 | **Backend & APIs** | **Node.js**, **NestJS**, **Python** (FastAPI, Flask, Celery), **.NET Core**, **Java Spring Boot**, Express, RESTful APIs, WebSockets, SSE |
 | **Arquitetura & Mensageria** | **Domain-Driven Design (DDD)**, **Arquitetura Hexagonal**, Microservices, Event-Driven, **Apache Kafka**, **RabbitMQ**, Redis, BullMQ, Offline-First (PouchDB/MongoDB) |
 | **Bancos de Dados & Storage** | **PostgreSQL**, MySQL, **MongoDB**, Redis, AWS S3, Google Cloud Storage, AWS Athena |
@@ -56,7 +56,7 @@ Com mais de **15 anos de experiência** na concepção de ecossistemas de softwa
 ### 💼 Atuação Profissional em Destaque
 
 - **Stefanini IT Solutions** *(Outubro 2022 — Atualmente)*  
-  *Analista Desenvolvedor Sênior* — Soluções corporativas de missão crítica para grande grupo multinacional de varejo. Barramentos de integração de vendas entre SAP e TOTVS Consinco com redução de 80% na carga de processamento; plataforma de streaming de dados com Kafka e NestJS; suíte de backoffice com 50+ módulos em NestJS e Angular; testes automatizados com **Jest & SonarQube** em Kubernetes.
+  *Analista Desenvolvedor Sênior* — Soluções corporativas de missão crítica para grande grupo multinacional de varejo. Barramentos de integração de vendas entre SAP e TOTVS Consinco com redução de 80% na carga de processamento; plataforma de streaming de dados com Kafka e NestJS; suíte de backoffice com 50+ módulos em NestJS, Angular e React orquestrados via **Module Federation**; testes automatizados com **Jest & SonarQube** em Kubernetes.
 
 - **iSales (SaaS Próprio em Produção)** *(2024 — Presente)*  
   *Engenheiro Fullstack / Fundador* — Plataforma SaaS comercial ativa (cliente **Fechatudo - Varejo e Serviços**). Assistente conversacional com IA para orçamentos por voz (Groq Whisper + Llama 3.3 com busca semântica no banco de dados), controle de ponto eletrônico antifraude com biometria facial vetorial e prova de vida (face-api.js / TST), PWA Offline-First para vendedores externos e retaguarda multi-tenant com Next.js, Drizzle ORM e Neon PostgreSQL.
