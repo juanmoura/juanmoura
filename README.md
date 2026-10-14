@@ -8,7 +8,7 @@
 ---
 
 [![Portfólio Interativo](https://img.shields.io/badge/🌐_Portfólio_Interativo-0284c7?style=for-the-badge&logo=react&logoColor=white)](https://juanmoura-portifolio.vercel.app)
-[![Currículo em PDF](https://img.shields.io/badge/📄_Currículo_(PDF)-0ea5e9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://juanmoura-portifolio.vercel.app/curriculo?print=true)
+[![Currículo em PDF](https://img.shields.io/badge/📄_Currículo_(PDF)-0ea5e9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://juanmoura-portifolio.vercel.app/curriculo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juan--carlos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-b016a3234)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584998587719?text=Ol%C3%A1%20Juan%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar!)
 [![E-mail](https://img.shields.io/badge/E--mail-Contato_Direto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancarlosnobremoura@gmail.com?subject=Oportunidade%20%2F%20Projeto%20(CLT%20%2F%20PJ))
@@ -83,7 +83,7 @@ Estou à disposição para **oportunidades de atuação (CLT ou PJ)**, projetos 
 - 💼 **LinkedIn:** [linkedin.com/in/juan-carlos-b016a3234](https://www.linkedin.com/in/juan-carlos-b016a3234)
 - ✉️ **E-mail:** [juancarlosnobremoura@gmail.com](mailto:juancarlosnobremoura@gmail.com?subject=Oportunidade%20%2F%20Projeto%20(CLT%20%2F%20PJ))
 - 💬 **WhatsApp:** [Iniciar conversa direta no WhatsApp](https://wa.me/5584998587719?text=Ol%C3%A1%20Juan%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar!)
-- 📄 **Currículo Atualizado:** [Visualizar / Salvar em PDF](https://juanmoura-portifolio.vercel.app/curriculo?print=true)
+- 📄 **Currículo Atualizado:** [Visualizar / Salvar em PDF](https://juanmoura-portifolio.vercel.app/curriculo)
 
 <br />
 
